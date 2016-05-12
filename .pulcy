@@ -1,0 +1,5 @@
+{
+	"registry": "pulcy",
+	"image": "tinyproxy",
+	"tag-latest": true
+}
